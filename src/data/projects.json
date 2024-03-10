@@ -1,0 +1,53 @@
+[
+  {
+    "title": "Mern Blog",
+    "imageSrc": "projects/project.png",
+    "description": "This is a blog project where user can upload blog.",
+    "skills": ["React", "Express", "Node" , "MongoDB"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Suman-ojha/mern-blog"
+  },
+  {
+    "title": "Auto Mailer",
+    "imageSrc": "projects/project.png",
+    "description": "Node.js based Automaiiler will respond to the unread mails while you r on a vacation.",
+    "skills": ["Node", "Express"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Suman-ojha/Auto-Mailer"
+  },
+  {
+    "title": "Chat App",
+    "imageSrc": "projects/project.png",
+    "description": "This is a Chat app where people can crete group and single chat.",
+    "skills": ["React", "Express", "Node" , "MongoDB"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Suman-ojha/ChitChat"
+  },
+  {
+    "title": "MovieX-Show",
+    "imageSrc": "projects/project.png",
+    "description": "This is a movie collection app where people can view , read , search new Tv , movies",
+    "skills": ["React", "scss"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Suman-ojha/MovieX-Show"
+  },
+  {
+    "title": "Youtube Clone",
+    "imageSrc": "projects/project.png",
+    "description": "This is a Youtube clone app, Video searching , viewing ,like youtube implementation presents.",
+    "skills": ["React", "TailwindCss"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Suman-ojha/YoutubeClone"
+  },
+  {
+    "title": "Sorting Visualiser",
+    "imageSrc": "projects/project.png",
+    "description": "This is a movie collection app where people can view , read , search new Tv , movies",
+    "skills": ["React", "Bootstarp"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Suman-ojha/React-sorting-visualiser"
+  }
+ 
+ 
+
+]
